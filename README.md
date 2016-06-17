@@ -16,9 +16,11 @@ is downloaded, unzipped and found in the subdirectory "data", under current work
 All R scripts (get_data.r, plot[1-4].R) should be copied to the current working directory.
 
 ## In order to run any of the plot[1-4].R files, type:
-> source("plot1.R") # or "plot2.R" / "plot3.R" / "plot4.R"
+\> source("plot1.R") # or "plot2.R" / "plot3.R" / "plot4.R"
 
-There is no need to run get_data.R seperately.
+There is no need to run get_data.R seperately (it will be called by the other scripts).
+
+Thank you.
 
 
 
